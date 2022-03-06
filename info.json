@@ -1,0 +1,401 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://pancake.kiemtienonline360.com/",
+            "path": "index.html",
+            "saved": true,
+            "size": 4596,
+            "children": [
+                {
+                    "url": "https://pancake.kiemtienonline360.com/static/js/3.59f3b7b7.chunk.js",
+                    "path": "js/3.59f3b7b7.chunk.js",
+                    "saved": true,
+                    "size": 1746651,
+                    "children": []
+                },
+                {
+                    "url": "https://pancake.kiemtienonline360.com/static/js/main.262e911e.chunk.js",
+                    "path": "js/main.262e911e.chunk.js",
+                    "saved": true,
+                    "size": 234789,
+                    "children": []
+                },
+                {
+                    "url": "https://fonts.googleapis.com/css2?family=Kanit:wght@400;600&display=swap",
+                    "saved": false
+                },
+                {
+                    "url": "https://fonts.googleapis.com/css?family=Kanit:400,500,900",
+                    "saved": false
+                },
+                {
+                    "url": "https://pancake.kiemtienonline360.com/static/css/3.28e9b865.chunk.css",
+                    "path": "css/3.28e9b865.chunk.css",
+                    "saved": true,
+                    "size": 4891,
+                    "children": [
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-Thin.5b7f1750.woff2",
+                            "path": "fonts/Inter-Thin.5b7f1750.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-Thin.2a24f83a.woff",
+                            "path": "fonts/Inter-Thin.2a24f83a.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-ThinItalic.626503a6.woff2",
+                            "path": "fonts/Inter-ThinItalic.626503a6.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-ThinItalic.823c319a.woff",
+                            "path": "fonts/Inter-ThinItalic.823c319a.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-ExtraLight.0a26b1ef.woff2",
+                            "path": "fonts/Inter-ExtraLight.0a26b1ef.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-ExtraLight.9a8c0250.woff",
+                            "path": "fonts/Inter-ExtraLight.9a8c0250.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-ExtraLightItalic.cca8e7e8.woff2",
+                            "path": "fonts/Inter-ExtraLightItalic.cca8e7e8.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-ExtraLightItalic.dd7136ac.woff",
+                            "path": "fonts/Inter-ExtraLightItalic.dd7136ac.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-Light.ab15890d.woff2",
+                            "path": "fonts/Inter-Light.ab15890d.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-Light.3ee890bd.woff",
+                            "path": "fonts/Inter-Light.3ee890bd.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-LightItalic.c0c6857d.woff2",
+                            "path": "fonts/Inter-LightItalic.c0c6857d.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-LightItalic.b199a1a0.woff",
+                            "path": "fonts/Inter-LightItalic.b199a1a0.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-Regular.26a30a5f.woff2",
+                            "path": "fonts/Inter-Regular.26a30a5f.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-Regular.e148c4a1.woff",
+                            "path": "fonts/Inter-Regular.e148c4a1.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-Italic.b89e547a.woff2",
+                            "path": "fonts/Inter-Italic.b89e547a.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-Italic.d3b5fcca.woff",
+                            "path": "fonts/Inter-Italic.d3b5fcca.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-Medium.d0a58d95.woff2",
+                            "path": "fonts/Inter-Medium.d0a58d95.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-Medium.eec0ea57.woff",
+                            "path": "fonts/Inter-Medium.eec0ea57.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-MediumItalic.dd1448de.woff2",
+                            "path": "fonts/Inter-MediumItalic.dd1448de.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-MediumItalic.77fc6c7d.woff",
+                            "path": "fonts/Inter-MediumItalic.77fc6c7d.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-SemiBold.2244d96c.woff2",
+                            "path": "fonts/Inter-SemiBold.2244d96c.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-SemiBold.d2e3b0e2.woff",
+                            "path": "fonts/Inter-SemiBold.d2e3b0e2.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-SemiBoldItalic.3c66f84b.woff2",
+                            "path": "fonts/Inter-SemiBoldItalic.3c66f84b.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-SemiBoldItalic.349f63a5.woff",
+                            "path": "fonts/Inter-SemiBoldItalic.349f63a5.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-Bold.df60e0aa.woff2",
+                            "path": "fonts/Inter-Bold.df60e0aa.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-Bold.828b5dfc.woff",
+                            "path": "fonts/Inter-Bold.828b5dfc.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-BoldItalic.30352075.woff2",
+                            "path": "fonts/Inter-BoldItalic.30352075.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-BoldItalic.6b5fde51.woff",
+                            "path": "fonts/Inter-BoldItalic.6b5fde51.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-ExtraBold.3e71093b.woff2",
+                            "path": "fonts/Inter-ExtraBold.3e71093b.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-ExtraBold.00e1fde4.woff",
+                            "path": "fonts/Inter-ExtraBold.00e1fde4.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-ExtraBoldItalic.c437ff9c.woff2",
+                            "path": "fonts/Inter-ExtraBoldItalic.c437ff9c.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-ExtraBoldItalic.941baf7c.woff",
+                            "path": "fonts/Inter-ExtraBoldItalic.941baf7c.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-Black.768169b1.woff2",
+                            "path": "fonts/Inter-Black.768169b1.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-Black.7bb62343.woff",
+                            "path": "fonts/Inter-Black.7bb62343.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-BlackItalic.71da97fd.woff2",
+                            "path": "fonts/Inter-BlackItalic.71da97fd.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-BlackItalic.c769882b.woff",
+                            "path": "fonts/Inter-BlackItalic.c769882b.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-roman.var.73d88d2c.woff2",
+                            "path": "fonts/Inter-roman.var.73d88d2c.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter-italic.var.e2e12d2e.woff2",
+                            "path": "fonts/Inter-italic.var.e2e12d2e.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://pancake.kiemtienonline360.com/static/media/Inter.var.a738a131.woff2",
+                            "path": "fonts/Inter.var.a738a131.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://pancake.kiemtienonline360.com/favicon.png",
+                    "path": "img/favicon.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://pancake.kiemtienonline360.com/images/192x192_App_Icon.png",
+                    "path": "img/192x192_App_Icon.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://pancake.kiemtienonline360.com/images/512x512_App_Icon.png",
+                    "path": "img/512x512_App_Icon.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://pancake.kiemtienonline360.com/swap.mp3",
+                    "path": "media/swap.mp3",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "pancake-kiemtienonline360-com-09ps4ks",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://pancake.kiemtienonline360.com/#/swap",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "https://pancake.kiemtienonline360.com/",
+            "statusCode": 200,
+            "headers": {
+                "connection": "close",
+                "content-type": "text/html",
+                "last-modified": "Wed, 22 Dec 2021 02:34:52 GMT",
+                "accept-ranges": "bytes",
+                "vary": "Accept-Encoding",
+                "content-length": "2275",
+                "date": "Mon, 14 Feb 2022 13:29:53 GMT",
+                "server": "LiteSpeed",
+                "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"43,46\""
+            }
+        },
+        "time": {
+            "start": "2022-02-14T13:29:53.114Z",
+            "end": "2022-02-14T13:30:01.506Z"
+        },
+        "remark": [],
+        "title": "PancakeSwap on Binance Smart Chain (BSC) Testnet",
+        "ip": "172.96.185.188",
+        "url": "https://pancake.kiemtienonline360.com/",
+        "main": "index.html",
+        "domain": "pancake.kiemtienonline360.com",
+        "origin": "https://pancake.kiemtienonline360.com",
+        "totalSize": "1.99 MB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "https://pancake.kiemtienonline360.com/#/swap",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
